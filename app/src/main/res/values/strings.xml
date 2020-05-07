@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Targetube</string>
+    <string name="imagelogo">imageLogo</string>
+    <string name="back">back</string>
+    <string name="home">Home</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+</resources>

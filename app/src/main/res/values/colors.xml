@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2272c2</color>
+    <color name="colorPrimaryDark">#2272c2</color>
+    <color name="colorAccent">#2272c2</color>
+
+    <color name="bottom_nav_txt_color">#212121</color>
+    <color name="background_color">#EBEBEB</color>
+    <color name="button_color">#5282B0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="separator">#FFFFFF</color>
+    <color name="hint_color">#b9b7b7</color>
+    <color name="black_color">#000000</color>
+    <color name="blue_color">#0079E7</color>
+    <color name="facebook_color">#355980</color>
+
+    <color name="category_black_overlay">#ba000000</color>
+</resources>
